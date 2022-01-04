@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Marc_Ramos"><img src="https://github.com/gitmarcramos/gitmarcramos/blob/main/devcard.svg" width="300" alt="Marc Ramos's Dev Card"/></a>
+<a href="https://app.daily.dev/Marc_Ramos"><img src="https://github.com/gitmarcramos/gitmarcramos/blob/main/devcard.svg" width="400" alt="Marc Ramos's Dev Card"/></a>
 
 <!--
 **gitmarcramos/gitmarcramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
