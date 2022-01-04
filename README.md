@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Marc, a full stack web developer focused on Front End, based in Paris. 
 
-🌱 After a 2 month bootcamp at Ironhack Paris, I’m currently learning Redux and NextJS.
+🌱 After a 2 month bootcamp at Ironhack Paris, I’m currently learning Redux and NextJS. \
 💚 I love design, and my main goal is to merge graphic design and front-end development to offer memorable digital experiences.
 
 ----------------------------------------------
