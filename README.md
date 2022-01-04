@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Marc, a full stack web developer focused on Front End, based in Paris. 
+
+- 🌱 After a 2 month bootcamp at Ironhack Paris, I’m currently learning Redux and NextJS.
+
+----------------------------------------------
 
 <a href="https://app.daily.dev/Marc_Ramos" target="_blank"><img src="https://github.com/gitmarcramos/gitmarcramos/blob/main/devcard.svg" width="400" alt="Marc Ramos's Dev Card"/></a>
 
